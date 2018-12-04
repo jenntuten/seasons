@@ -7,10 +7,10 @@
   margin-bottom: 15px;
 }
 body {
-    background: url("beach-exotic-holiday-248797.jpg");
+    background-color: #75CDD8;
 }
 #first-prop {
-    background: #043169;
+    background: #ffca27;
 }
 .card {
     margin-top: 15px;
@@ -30,7 +30,7 @@ body {
       text-transform: capitalize;
   }
   .card-header {
-    background: #043169;
+    background: #ffca27;
     color: white;
   }
   .carousel {
